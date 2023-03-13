@@ -10,3 +10,6 @@ print(str)
 
 str = "! Bonjour Monde !"
 print("\n"+str)
+
+str = "comment tournez-vous ?"
+print("\n"+str)
